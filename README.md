@@ -35,12 +35,6 @@ Her work lies at the intersection of **biology, computer science, and statistics
 - Predictive modeling and classification  
 - Machine learning applications for biological discovery  
 
-### Tools & Platforms
-- Workflow management: **Nextflow, Snakemake**  
-- Version control: **Git, GitHub**  
-- High-performance computing: **HPC / Slurm**  
-- Cloud platforms: **AWS, GCP**  
-
 ### Scientific Foundations
 - Strong grounding in **molecular biology, genetics, and systems biology**, ensuring biologically meaningful computational analysis.
 

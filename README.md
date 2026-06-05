@@ -13,7 +13,7 @@
 
 **Muteeba Azhar** is a dedicated and forward-thinking **Computational Biologist** with a strong commitment to translating complex biological questions into **quantitative, data-driven solutions**. She combines a solid foundation in **molecular biology** with advanced **computational, statistical, and machine learning expertise** to uncover meaningful patterns in high-throughput biological data.
 
-Her work lies at the intersection of **biology, computer science, and statistics**, with a focus on developing and applying robust analytical pipelines and predictive models to advance research in **genomics, transcriptomics, and systems biology**.
+Her work lies at the intersection of **biology, computer science, and statistics**, with a focus on developing and applying robust analytical pipelines and predictive models to advance research in **genomics, transcriptomics and systems biology**.
 
 ---
 

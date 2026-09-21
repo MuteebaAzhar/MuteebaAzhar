@@ -36,6 +36,8 @@ My work focuses on turning complex biological data into reproducible analyses, p
 <img src="https://img.shields.io/badge/🧬%20CNVision-GitHub-181717?style=for-the-badge&logo=github" alt="CNVision"/>
 </a>
 
+<a href="https://github.com/collaborativebioinformatics/Chimpanzee-isoform-diversity"> <img src="https://img.shields.io/badge/🧬%20IsoChimp-GitHub-181717?style=for-the-badge&logo=github" alt="IsoChimp"/> </a>
+
 <a href="https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow">
 <img src="https://img.shields.io/badge/🧩%20MultiOmicsFlow-GitHub-181717?style=for-the-badge&logo=github" alt="MultiOmicsFlow"/>
 </a>
@@ -48,13 +50,14 @@ My work focuses on turning complex biological data into reproducible analyses, p
 
 ### 🔬 Research Portfolio
 
-| Project                | Area                                                     | Access                                                                       |
-| ---------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 🧬 **FunGO**           | Protein Function Prediction · ESM-2 · Gene Ontology · ML | [**Live Demo →**](https://fun-go.vercel.app/)                                |
-| 💊 **GynoPotentia**    | Computational Drug Discovery · PCOS · AQP9               | [**Open App →**](https://gynopotentia.streamlit.app/)                        |
-| 🧬 **CNVision**        | Computational Genomics                                   | [**View GitHub →**](https://github.com/collaborativebioinformatics/CNVision) |
-| 🧩 **MultiOmicsFlow**  | TCGA · Clinical Genomics · Multi-Omics                   | [**View GitHub →**](https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow)   |
-| 🧪 **HIV OctaScanner** | Machine Learning · HIV-1 Protease                        | [**Read Publication →**](https://doi.org/10.1021/acs.jcim.4c01808)           |
+| Project                | Area                                   | Access                                                                                           |
+| ---------------------- | ---------------------------------------| ------------------------------------------------------------------------------------------------ |
+| 🧬 **FunGO**           | Protein Function Prediction            | [**Live Demo →**](https://fun-go.vercel.app/)                                                    |
+| 💊 **GynoPotentia**    | Computational Drug Discovery           | [**Open App →**](https://gynopotentia.streamlit.app/)                                            |
+|🧬 **CNVision**         | Computational Genomics                 | [**View GitHub →**](https://github.com/collaborativebioinformatics/CNVision)                     | 
+|🧬 **IsoChimp**         | Chimpanzee Isoform Diversity           | [**View GitHub →**](https://github.com/collaborativebioinformatics/Chimpanzee-isoform-diversity) |
+| 🧩 **MultiOmicsFlow**  | TCGA · Clinical Genomics · Multi-Omics | [**View GitHub →**](https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow)                       |
+| 🧪 **HIV OctaScanner** | Machine Learning · HIV-1 Protease      | [**Read Publication →**](https://doi.org/10.1021/acs.jcim.4c01808)                               |
 
 ---
 
@@ -79,19 +82,6 @@ My work focuses on turning complex biological data into reproducible analyses, p
 **Tools & Frameworks**
 
 `Bioconductor` · `DESeq2` · `edgeR` · `Seurat` · `clusterProfiler` · `ComplexHeatmap` · `Nextflow` · `Docker` · `Git`
-
----
-
-## 🚀 Current Research Direction
-
-My current focus is on **AI-driven biological research**, particularly:
-
-* Integrative multi-omics analysis
-* Machine learning for genomics
-* Biological representation learning
-* Protein and genomic language models
-* Interpretable AI for healthcare
-* Computational biomarker discovery
 
 ---
 

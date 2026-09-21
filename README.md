@@ -10,11 +10,11 @@
 
 ---
 
-## 🧬 About
+## 🧬 About Me
 
-I am a **Computational Biologist and Genomic Data Scientist** working at the intersection of **molecular biology, genomics, multi-omics, and machine learning**.
+I am a Computational Biologist and Genomic Data Scientist working at the intersection of molecular biology, genomics, multi-omics, and machine learning.
 
-I build computational approaches that turn complex biological data into **reproducible analyses, predictive models, and biologically meaningful insights**, with a growing focus on **AI for biological discovery and healthcare**.
+I build computational approaches that turn complex biological data into reproducible analyses, predictive models, and biologically meaningful insights, with a growing focus on AI for biological discovery and healthcare.
 
 **Research interests:** Genomics · Multi-Omics · Transcriptomics · Clinical Genomics · Protein Function Prediction · Machine Learning · BioAI
 
@@ -87,36 +87,24 @@ I build computational approaches that turn complex biological data into **reprod
 
 ---
 
-## 🚀 Current Research Direction
-
-My current focus is on **AI-driven biological research**, particularly:
-
-* Integrative multi-omics analysis
-* Machine learning for genomics
-* Biological representation learning
-* Protein and genomic language models
-* Interpretable AI for healthcare
-* Computational biomarker discovery
-
----
-
-## 📚 Selected Publications
+## 📚 Publications
 
 * **HIV OctaScanner: A Machine Learning Approach to Unveil Proteolytic Cleavage Dynamics in HIV-1 Protease Substrates**
-  *Journal of Chemical Information and Modeling*, 2025
+  *Journal of Chemical Information and Modeling*
   [**Read Publication →**](https://doi.org/10.1021/acs.jcim.4c01808)
+
+* **Prevalence of Vitamin D Deficiency in Ataxia-Telangiectasia: A Systematic Review and Single Arm Meta-Analysis**
+  *The Cerebellum*
+  [**Read Publication →**](https://doi.org/10.1007/s12311-026-02036-9)
 
 * **Pyocins and Beyond: Exploring the World of Bacteriocins in Pseudomonas aeruginosa**
   *Probiotics and Antimicrobial Proteins*
   [**Read Publication →**](https://doi.org/10.1007/s12602-024-10322-3)
 
 * **Cathepsin L / SARS-CoV-2 Research**
-  *BioScientific Review*, 2025
+  *BioScientific Review*
   [**Read Publication →**](https://doi.org/10.32350/bsr.64.ii)
 
-* **Prevalence of Vitamin D Deficiency in Ataxia-Telangiectasia: A Systematic Review and Single Arm Meta-Analysis**
-  *The Cerebellum*, 2026
-  [**Read Publication →**](https://doi.org/10.1007/s12311-026-02036-9)
 
 ---
 

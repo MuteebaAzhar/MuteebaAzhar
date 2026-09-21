@@ -20,7 +20,7 @@ My work focuses on turning complex biological data into **reproducible analyses,
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Recent Projects
 
 <p align="center">
 

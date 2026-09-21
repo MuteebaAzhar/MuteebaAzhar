@@ -10,11 +10,11 @@
 
 ---
 
-## 🧬 About
+## 🧬 About Me
 
-I am a **Computational Biologist and Genomic Data Scientist** working at the intersection of **molecular biology, genomics, multi-omics, and machine learning**.
+I am a Computational Biologist and Genomic Data Scientist working at the intersection of molecular biology, genomics, multi-omics, and machine learning.
 
-My work focuses on turning complex biological data into **reproducible analyses, predictive models, and biologically meaningful insights** — with a growing focus on **AI for biological discovery and healthcare**.
+My work focuses on turning complex biological data into reproducible analyses, predictive models, and biologically meaningful insights with a growing focus on AI for biological discovery and healthcare.
 
 **Research interests:** Genomics · Multi-Omics · Transcriptomics · Clinical Genomics · Protein Function Prediction · Machine Learning · BioAI
 

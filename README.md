@@ -3,7 +3,7 @@
 ### Computational Biologist | Genomic Data Scientist | Bioinformatics & BioAI
 
 [![Computational Biology](https://img.shields.io/badge/Computational%20Biology-Research-2ea44f?style=flat-square)](https://github.com/MuteebaAzhar)
-[![Genomics](https://img.shields.io/badge/Genomics-Multi--Omics-2563EB?style=flat-square)](https://github.com/MuteebaAzhar)
+[![Genomics](https://img.shields.io/badge/Genomics-Multiomics-2563EB?style=flat-square)](https://github.com/MuteebaAzhar)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Biology-7C3AED?style=flat-square)](https://github.com/MuteebaAzhar)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)](https://www.r-project.org/)

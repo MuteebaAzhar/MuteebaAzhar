@@ -16,7 +16,7 @@ I am a Computational Biologist and Genomic Data Scientist working at the interse
 
 I build computational approaches that turn complex biological data into reproducible analyses, predictive models, and biologically meaningful insights, with a growing focus on AI for biological discovery and healthcare.
 
-**Research interests:** Genomics · Multi-Omics · Transcriptomics · Clinical Genomics · Protein Function Prediction · Machine Learning · BioAI
+**Research interests:** Genomics · Multiomics · Transcriptomics · Clinical Genomics · Protein Function Prediction · Machine Learning · BioAI
 
 ---
 

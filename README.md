@@ -62,11 +62,11 @@ I build computational approaches that turn complex biological data into reproduc
 | Project | Area | Access |
 |---|---|---|
 | 🧬 **FunGO** | Protein Function Prediction · ESM-2 · Gene Ontology · ML | [**Live Demo →**](https://fun-go.vercel.app/) |
-| 🧬 **Multiomics Intelligence** | Multi-Omics Research · Bioinformatics · AI | [**GitHub →**](https://github.com/OmicxHub/Multiomics-Intelligence) |
+| 🧬 **Multiomics Intelligence** | Multiomics Research · Bioinformatics · AI | [**GitHub →**](https://github.com/OmicxHub/Multiomics-Intelligence) |
 | 💊 **GynoPotentia** | Computational Drug Discovery · PCOS · AQP9 | [**Open App →**](https://gynopotentia.streamlit.app/) |
 | 🧬 **CNVision** | Computational Genomics | [**GitHub →**](https://github.com/collaborativebioinformatics/CNVision) |
 | 🧬 **IsoChimp** | Chimpanzee Isoform Diversity | [**GitHub →**](https://github.com/collaborativebioinformatics/Chimpanzee-isoform-diversity) |
-| 🧩 **MultiOmicsFlow** | TCGA · Clinical Genomics · DNA Methylation · Multi-Omics | [**GitHub →**](https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow) |
+| 🧩 **MultiOmicsFlow** | TCGA · Clinical Genomics · DNA Methylation · Multiomics | [**GitHub →**](https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow) |
 | 🧠 **Ataxia-Telangiectasia Meta-Analysis** | Neurology · Systematic Review · Meta-Analysis · RCTs | [**PubMed →**](https://pubmed.ncbi.nlm.nih.gov/42965751/) |
 | 🧪 **HIV OctaScanner** | Machine Learning · HIV-1 Protease | [**Publication →**](https://doi.org/10.1021/acs.jcim.4c01808) |
 

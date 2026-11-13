@@ -28,6 +28,15 @@ I build computational approaches that turn complex biological data into reproduc
 <img src="https://img.shields.io/badge/🧬%20FunGO-Live%20Project-0F766E?style=for-the-badge" alt="FunGO"/>
 </a>
 
+
+<a href="https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow">
+  <img src="https://img.shields.io/badge/🧩%20MultiOmicsFlow-GitHub-334155?style=for-the-badge&logo=github" alt="MultiOmicsFlow"/>
+</a>
+
+<a href="https://github.com/OmicxHub/Multiomics-Intelligence">
+  <img src="https://img.shields.io/badge/🧬%20Multiomics%20Intelligence-GitHub-0F766E?style=for-the-badge&logo=github" alt="Multiomics Intelligence"/>
+</a>
+
 <a href="https://gynopotentia.streamlit.app/">
 <img src="https://img.shields.io/badge/💊%20GynoPotentia-Live%20Project-6D5A9E?style=for-the-badge" alt="GynoPotentia"/>
 </a>
@@ -38,10 +47,6 @@ I build computational approaches that turn complex biological data into reproduc
 
 <a href="https://github.com/collaborativebioinformatics/Chimpanzee-isoform-diversity">
 <img src="https://img.shields.io/badge/🧬%20IsoChimp-GitHub-334155?style=for-the-badge&logo=github" alt="IsoChimp"/>
-</a>
-
-<a href="https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow">
-<img src="https://img.shields.io/badge/🧩%20MultiOmicsFlow-GitHub-334155?style=for-the-badge&logo=github" alt="MultiOmicsFlow"/>
 </a>
 
 <a href="https://doi.org/10.1021/acs.jcim.4c01808">
@@ -93,7 +98,10 @@ I build computational approaches that turn complex biological data into reproduc
   *Journal of Chemical Information and Modeling*
   [**Read Publication →**](https://doi.org/10.1021/acs.jcim.4c01808)
 
-* **Prevalence of Vitamin D Deficiency in Ataxia-Telangiectasia: A Systematic Review and Single Arm Meta-Analysis**
+* **Pharmacological Interventions for Neurological Manifestations of Ataxia-Telangiectasia: An Updated Systematic Review and Meta-analysis of Randomized Controlled Trials**
+  *The Cerebellum*
+  [**Read Publication →**](https://pubmed.ncbi.nlm.nih.gov/42965751/)
+  PMID: 42965751 | DOI: 10.1007/s12311-026-02108-w **Prevalence of Vitamin D Deficiency in Ataxia-Telangiectasia: A Systematic Review and Single Arm Meta-Analysis**
   *The Cerebellum*
   [**Read Publication →**](https://doi.org/10.1007/s12311-026-02036-9)
 
@@ -104,7 +112,6 @@ I build computational approaches that turn complex biological data into reproduc
 * **Cathepsin L / SARS-CoV-2 Research**
   *BioScientific Review*
   [**Read Publication →**](https://doi.org/10.32350/bsr.64.ii)
-
 
 ---
 
@@ -122,7 +129,7 @@ I am particularly interested in computational approaches that remain **biologica
 
 **GitHub:** https://github.com/MuteebaAzhar
 
-**Email:** [muteeba.res.sbb@pu.edu.pk](mailto:muteeba.res.sbb@pu.edu.pk)
+**Email:** [muteeba.res.sbb@pu.edu.pk](mailto:muteebaazhar18@gmail.com)
 
 ---
 

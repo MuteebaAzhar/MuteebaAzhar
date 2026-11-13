@@ -28,11 +28,6 @@ I build computational approaches that turn complex biological data into reproduc
 <img src="https://img.shields.io/badge/🧬%20FunGO-Live%20Project-0F766E?style=for-the-badge" alt="FunGO"/>
 </a>
 
-
-<a href="https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow">
-  <img src="https://img.shields.io/badge/🧩%20MultiOmicsFlow-GitHub-334155?style=for-the-badge&logo=github" alt="MultiOmicsFlow"/>
-</a>
-
 <a href="https://github.com/OmicxHub/Multiomics-Intelligence">
   <img src="https://img.shields.io/badge/🧬%20Multiomics%20Intelligence-GitHub-0F766E?style=for-the-badge&logo=github" alt="Multiomics Intelligence"/>
 </a>
@@ -47,6 +42,10 @@ I build computational approaches that turn complex biological data into reproduc
 
 <a href="https://github.com/collaborativebioinformatics/Chimpanzee-isoform-diversity">
 <img src="https://img.shields.io/badge/🧬%20IsoChimp-GitHub-334155?style=for-the-badge&logo=github" alt="IsoChimp"/>
+</a>
+
+<a href="https://github.com/LSMA2026/MI-Muteeba-MultiOmicsFlow">
+  <img src="https://img.shields.io/badge/🧩%20MultiOmicsFlow-GitHub-334155?style=for-the-badge&logo=github" alt="MultiOmicsFlow"/>
 </a>
 
 <a href="https://doi.org/10.1021/acs.jcim.4c01808">
